@@ -15,3 +15,13 @@ and open the template in the editor.
     margin-left: -15px;
     margin-top: 20px;
 }
+
+.px-lg-5 {
+    padding-left: 1rem !important;
+}
+.mx-lg-n5 {
+    margin-left: -19rem !important;
+}
+.mx-lg-n5 {
+    margin-right: -20rem !important;
+}
